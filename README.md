@@ -1,4 +1,6 @@
-## Hello Word I'am ravirizkhan 👋
+## Hello World! I'am ravirizkhan 👋
+
+![header](img/github-header-image.png)
 
 <!--
 **ravirizkhan7/ravirizkhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning frontend developer
+- 🌱 I’m currently learning **frontend** developer
+- 🤔 I’m looking for help with **desaigner**
